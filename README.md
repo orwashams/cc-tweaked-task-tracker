@@ -30,7 +30,7 @@ wget https://raw.githubusercontent.com/orwashams/cc-tweaked-task-tracker/main/tr
 
 Then run them in your Terminal:
 
-> ">"tasks.lua
+> `>`tasks.lua
 
 ## Usage
 
