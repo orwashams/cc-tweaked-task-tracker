@@ -12,6 +12,22 @@ A Task Tracker made for [CC:Tweaked](https://tweaked.cc/) mod
   <img src="/images/TaskTrackerPic.png" />
 </p>
 
+## Installation
+
+Download the script to your computer:
+
+#### **Note:** its will take couple of seconds to download Basalt UI
+
+```
+pastebin get 5W4Vnybe [filename]
+```
+
+or
+
+```
+wget https://raw.githubusercontent.com/orwashams/cc-tweaked-task-tracker/main/tracker.lua [filename]
+```
+
 ## Usage
 
 1. Adding a Task:
