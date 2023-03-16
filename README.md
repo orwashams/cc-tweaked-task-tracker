@@ -28,9 +28,9 @@ or
 wget https://raw.githubusercontent.com/orwashams/cc-tweaked-task-tracker/main/tracker.lua tasks.lua
 ```
 
-Then run them in your Terminal:
+Then run the script in your Terminal:
 
-> `\> tasks.lua`
+> `tasks.lua`
 
 ## Usage
 
@@ -39,6 +39,8 @@ Then run them in your Terminal:
 2. Deleting a Task:
    - Click on the task you want to delete to highlight it, then click 'd' in your keyboard.
 
-## Note
+## Notes
 
-For now it only works on the computer itself, monitor is not supported.
+- The tasks live for the duration of the program, if you kill the running process the tasks disappear.
+
+- For now it only works on the computer itself, monitor is not supported.
