@@ -19,17 +19,18 @@ Download the script to your computer:
 #### **Note:** its will take couple of seconds to download Basalt UI
 
 ```
-pastebin get 5W4Vnybe [filename]
+pastebin get 5W4Vnybe tasks.lua
 ```
 
 or
 
 ```
-wget https://raw.githubusercontent.com/orwashams/cc-tweaked-task-tracker/main/tracker.lua [filename]
+wget https://raw.githubusercontent.com/orwashams/cc-tweaked-task-tracker/main/tracker.lua tasks.lua
 ```
 
 Then run them in your Terminal:
-`[filename]`
+
+> ">"tasks.lua
 
 ## Usage
 
