@@ -28,6 +28,9 @@ or
 wget https://raw.githubusercontent.com/orwashams/cc-tweaked-task-tracker/main/tracker.lua [filename]
 ```
 
+Then run them in your Terminal:
+`[filename]`
+
 ## Usage
 
 1. Adding a Task:
