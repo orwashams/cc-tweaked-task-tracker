@@ -16,7 +16,7 @@ A Task Tracker made for [CC:Tweaked](https://tweaked.cc/) mod
 
 Download the script to your computer:
 
-#### **Note:** its will take couple of seconds to download Basalt UI
+#### **Note:** it will take couple of seconds to download Basalt UI
 
 ```
 pastebin get 5W4Vnybe tasks.lua
