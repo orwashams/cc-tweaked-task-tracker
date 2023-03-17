@@ -37,7 +37,7 @@ Then run the script in your Terminal:
 1. Adding a Task:
    - Simply type a text in the "Todo:" input and click "Add" to add your task to the list below.
 2. Deleting a Task:
-   - Click on the task you want to delete to highlight it, then click 'd' in your keyboard.
+   - Click on the task you want to delete to highlight it, then click 'd' on your keyboard.
 
 ## Notes
 
